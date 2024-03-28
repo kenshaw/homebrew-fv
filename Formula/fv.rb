@@ -4,8 +4,8 @@ class Fv < Formula
   desc "a command-line font viewer using terminal graphics (Sixel, iTerm, Kitty)"
   homepage "https://#{$pkg}"
   head "https://#{$pkg}.git"
-  url "https://github.com/kenshaw/fv/archive/v0.4.11.tar.gz"
-  sha256 "9753e37a20bf59404e0212a481502317d1eb1fc608dcd57826d08986a7bf3bc1"
+  url "https://github.com/kenshaw/fv/archive/v0.4.12.tar.gz"
+  sha256 "112737ccef42c0db8711c9ec7e65e549f315fb6d53660750d2e148d373496d07"
 
   depends_on "go" => :build
 
